@@ -1,3 +1,4 @@
+```
 public class LinkedListCycleDetection {
 
     // Node class for singly linked list
@@ -50,3 +51,5 @@ public class LinkedListCycleDetection {
         }
     }
 }
+
+```
